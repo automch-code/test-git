@@ -1,4 +1,4 @@
 ANAK COMPANY
-Employee: 300
+Employee: 300 Billion
 Bonus: 100 Months
 WFH: Everyday
